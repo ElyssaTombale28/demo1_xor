@@ -1,5 +1,5 @@
 Analysis & Synthesis report for xor_gate
-Thu Apr 16 09:39:09 2026
+Thu Apr 16 10:13:52 2026
 Quartus Prime Version 23.1std.0 Build 991 11/28/2023 SC Lite Edition
 
 
@@ -43,7 +43,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                        ;
 +------------------------------------+------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Thu Apr 16 09:39:09 2026          ;
+; Analysis & Synthesis Status        ; Successful - Thu Apr 16 10:13:51 2026          ;
 ; Quartus Prime Version              ; 23.1std.0 Build 991 11/28/2023 SC Lite Edition ;
 ; Revision Name                      ; xor_gate                                       ;
 ; Top-level Entity Name              ; xor_gate                                       ;
@@ -258,14 +258,14 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 23.1std.0 Build 991 11/28/2023 SC Lite Edition
-    Info: Processing started: Thu Apr 16 09:38:55 2026
+    Info: Processing started: Thu Apr 16 10:13:38 2026
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off xor_gate -c xor_gate
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 6 of the 6 processors detected
 Info (12021): Found 1 design units, including 1 entities, in source file xor_gate.v
     Info (12023): Found entity 1: xor_gate File: C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/xor_gate.v Line: 13
 Info (12021): Found 1 design units, including 1 entities, in source file verilog2.v
-    Info (12023): Found entity 1: testbench File: C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v Line: 2
+    Info (12023): Found entity 1: Verilog2 File: C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v Line: 2
 Info (12127): Elaborating entity "xor_gate" for the top level hierarchy
 Info (286030): Timing-Driven Synthesis is running
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
@@ -276,7 +276,7 @@ Info (21057): Implemented 4 device resources after synthesis - the final resourc
     Info (21061): Implemented 1 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 4785 megabytes
-    Info: Processing ended: Thu Apr 16 09:39:09 2026
+    Info: Processing ended: Thu Apr 16 10:13:52 2026
     Info: Elapsed time: 00:00:14
     Info: Total CPU time (on all processors): 00:00:33
 
