@@ -1,0 +1,15 @@
+C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v {1 {vlog -work work -stats=none C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Verilog2
+
+Top level modules:
+	Verilog2
+
+} {} {}} C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/xor_gate.v {1 {vlog -work work -stats=none C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/xor_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}}
