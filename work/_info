@@ -9,73 +9,119 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA/20.1
+vdemo2_adder
+Z0 !s110 1776308086
+!i10b 1
+!s100 DleSL=IRWE>23FU9BOcJH0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZFE=A5ezDe_o?B2i5]JPj0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor
+w1776307563
+8C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo2_adder/demo2_adder.v
+FC:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo2_adder/demo2_adder.v
+!i122 14
+L0 17 10
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1776308086.000000
+!s107 C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo2_adder/demo2_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo2_adder/demo2_adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtest
+R0
+!i10b 1
+!s100 HSDin^0Em:iWhjJ>24K[53
+R1
+I`6L`;=d`z`UAFXcP:a@gE1
+R2
+R3
+w1776308056
+8C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo2_adder/Verilog3.v
+FC:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo2_adder/Verilog3.v
+!i122 15
+L0 3 33
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo2_adder/Verilog3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo2_adder/Verilog3.v|
+!i113 1
+R6
+R7
 vtestbench
 !s110 1776303980
 !i10b 1
 !s100 chQVW8::eFALQ;3WPE6@N1
-Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+R1
 Ic<jiziT?A30jilE[JB??P0
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor
+R2
+R3
 w1775789621
-Z3 8C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v
-Z4 FC:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v
+Z8 8C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v
+Z9 FC:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v
 !i122 2
-Z5 L0 2 25
-Z6 OV;L;2020.1;71
+Z10 L0 2 25
+R4
 r1
 !s85 0
 31
 !s108 1776303980.000000
-Z7 !s107 C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v|
-Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v|
+Z11 !s107 C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/Verilog2.v|
 !i113 1
-Z9 o-work work
-Z10 tCvgOpt 0
+R6
+R7
 vVerilog2
-Z11 !s110 1776304686
+Z13 !s110 1776304686
 !i10b 1
 !s100 ?KG_9>DJa?DG8fhTBGSf;1
-R0
-Igco@F=EC8]7:R6GMZICOl3
 R1
+Igco@F=EC8]7:R6GMZICOl3
 R2
-w1776304525
 R3
-R4
+w1776304525
+R8
+R9
 !i122 10
-R5
-R6
+R10
+R4
 r1
 !s85 0
 31
-Z12 !s108 1776304686.000000
-R7
-R8
+Z14 !s108 1776304686.000000
+R11
+R12
 !i113 1
-R9
-R10
+R6
+R7
 n@verilog2
 vxor_gate
-R11
+R13
 !i10b 1
 !s100 ^0XISaK9TU?;DW`<nQz^63
-R0
-I3^mUcgcZKSMiD1`g_4_2M3
 R1
+I3^mUcgcZKSMiD1`g_4_2M3
 R2
+R3
 w1776303535
 8C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/xor_gate.v
 FC:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/xor_gate.v
 !i122 11
 L0 13 11
-R6
+R4
 r1
 !s85 0
 31
-R12
+R14
 !s107 C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/xor_gate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Documents/FPGA_demo/Tombale_Elyssa/demo1_xor/xor_gate.v|
 !i113 1
-R9
-R10
+R6
+R7
